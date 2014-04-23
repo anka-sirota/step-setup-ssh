@@ -13,4 +13,7 @@ properties:
   host:
     type: string
     required: true
+  port:
+    type: string
+    required: false
   
